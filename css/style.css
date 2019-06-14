@@ -73,13 +73,13 @@ figcaption {
 
 
 
-/*/////// MEDIA ////////*/
+/*////// MEDIA ///////*/
 
 img, video, audio {
   max-width: 100%;
 }
 
-/*/////// LAYOUT ////////*/
+/*////// LAYOUT ///////*/
 
 * {
   -webkit-box-sizing: border-box;
@@ -125,7 +125,7 @@ img, video, audio {
   margin-left: 0%;
 }
 
-/*/////// SECTIONS ////////*/
+/*////// SECTIONS ///////*/
 
 header {
   position: fixed;
@@ -141,7 +141,7 @@ section {
   margin-bottom: 20px;
 }
 
-/*/////// SOCIAL ////////*/
+/*////// SOCIAL ///////*/
 
 #social {
   position: fixed;
@@ -157,18 +157,6 @@ section {
   height: 40px;
   background: yellow;
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
 
 
